@@ -1,0 +1,52 @@
+base 20260000 done
+base 20260001 done
+base 20260002 done
+base 20260003 done
+base 20260004 done
+carbon_x0.5 20260000 done
+carbon_x0.5 20260001 done
+carbon_x0.5 20260002 done
+carbon_x0.5 20260003 done
+carbon_x0.5 20260004 done
+carbon_x2 20260000 done
+carbon_x2 20260001 done
+carbon_x2 20260002 done
+carbon_x2 20260003 done
+carbon_x2 20260004 done
+comfort_x0.5 20260000 done
+comfort_x0.5 20260001 done
+comfort_x0.5 20260002 done
+comfort_x0.5 20260003 done
+comfort_x0.5 20260004 done
+comfort_x2 20260000 done
+comfort_x2 20260001 done
+comfort_x2 20260002 done
+comfort_x2 20260003 done
+comfort_x2 20260004 done
+service_x0.5 20260000 done
+service_x0.5 20260001 done
+service_x0.5 20260002 done
+service_x0.5 20260003 done
+service_x0.5 20260004 done
+service_x2 20260000 done
+service_x2 20260001 done
+service_x2 20260002 done
+service_x2 20260003 done
+service_x2 20260004 done
+ev_x0.5 20260000 done
+ev_x0.5 20260001 done
+ev_x0.5 20260002 done
+ev_x0.5 20260003 done
+ev_x0.5 20260004 done
+{'which': 'B5', 'days': 42, 'H': 24, 'n_cl': 3, 'n_steps': 1008, 'op_med_ms': 12.828311499561096, 'op_p95_ms': 14.85837510044803, 'env_n': 0, 'env_med_ms': nan, 'env_p95_ms': nan, 'wall_s': 13.997652053833008, 'per_step_ms': 13.886559577215285, 'peak_rss_MB': 172.97265625}
+{'which': 'P', 'days': 42, 'H': 24, 'n_cl': 3, 'n_steps': 1008, 'op_med_ms': 13.015568499668007, 'op_p95_ms': 15.066583199950399, 'env_n': 92, 'env_med_ms': 8.102352499918197, 'env_p95_ms': 9.882583299713588, 'wall_s': 15.666742324829102, 'per_step_ms': 15.54240310002887, 'peak_rss_MB': 189.0078125}
+{'which': 'P', 'days': 7, 'H': 12, 'n_cl': 3, 'n_steps': 168, 'op_med_ms': 6.776853999781451, 'op_p95_ms': 7.62316410045969, 'env_n': 15, 'env_med_ms': 4.823573000066972, 'env_p95_ms': 98.25753089989998, 'wall_s': 1.7900128364562988, 'per_step_ms': 10.654838312239875, 'peak_rss_MB': 203.0078125}
+{'which': 'P', 'days': 7, 'H': 24, 'n_cl': 3, 'n_steps': 168, 'op_med_ms': 13.013508000312868, 'op_p95_ms': 14.541210849984054, 'env_n': 15, 'env_med_ms': 7.8595410004709265, 'env_p95_ms': 167.27139040003695, 'wall_s': 3.4245948791503906, 'per_step_ms': 20.384493328276136, 'peak_rss_MB': 203.0078125}
+{'which': 'P', 'days': 7, 'H': 48, 'n_cl': 3, 'n_steps': 168, 'op_med_ms': 29.663691999758157, 'op_p95_ms': 33.570419150055386, 'env_n': 15, 'env_med_ms': 13.809197000227869, 'env_p95_ms': 411.5002681998689, 'wall_s': 7.9222798347473145, 'per_step_ms': 47.156427587781636, 'peak_rss_MB': 226.94140625}
+{'which': 'P', 'days': 7, 'H': 96, 'n_cl': 3, 'n_steps': 168, 'op_med_ms': 68.74805049983479, 'op_p95_ms': 78.50942484997177, 'env_n': 15, 'env_med_ms': 27.713174000382423, 'env_p95_ms': 857.16766039977, 'wall_s': 17.16023540496826, 'per_step_ms': 102.14425836290631, 'peak_rss_MB': 300.48828125}
+{'which': 'P', 'days': 7, 'H': 24, 'n_cl': 1, 'n_steps': 168, 'op_med_ms': 8.699987999534642, 'op_p95_ms': 9.775066950169276, 'env_n': 15, 'env_med_ms': 5.570162999902095, 'env_p95_ms': 74.759965299472, 'wall_s': 2.1081607341766357, 'per_step_ms': 12.54857579867045, 'peak_rss_MB': 322.48828125}
+{'which': 'P', 'days': 7, 'H': 24, 'n_cl': 3, 'n_steps': 168, 'op_med_ms': 12.56119099980424, 'op_p95_ms': 14.095155600489306, 'env_n': 15, 'env_med_ms': 7.880906000536925, 'env_p95_ms': 172.92571720035934, 'wall_s': 3.987893581390381, 'per_step_ms': 23.737461793990363, 'peak_rss_MB': 332.61328125}
+{'which': 'P', 'days': 7, 'H': 24, 'n_cl': 6, 'n_steps': 168, 'op_med_ms': 19.572473500375054, 'op_p95_ms': 22.17502800017428, 'env_n': 15, 'env_med_ms': 11.692084999594954, 'env_p95_ms': 330.92870159980407, 'wall_s': 5.757310390472412, 'per_step_ms': 34.26970470519293, 'peak_rss_MB': 332.61328125}
+{'which': 'P', 'days': 7, 'H': 24, 'n_cl': 12, 'n_steps': 168, 'op_med_ms': 34.205034500246256, 'op_p95_ms': 38.381468749867054, 'env_n': 15, 'env_med_ms': 19.008764999853156, 'env_p95_ms': 464.4309569996024, 'wall_s': 9.357357501983643, 'per_step_ms': 55.69855655942644, 'peak_rss_MB': 332.61328125}
+{'python': '3.11.15', 'cvxpy': '1.9.2', 'numpy': '2.4.4', 'solver': 'CLARABEL (SCS fallback)', 'cpu': 'model name\t: Intel(R) Xeon(R) Processor @ 2.80GHz', 'n_cores': 2, 'os_': 'Linux-6.18.44-fc-v22-x86_64-with-glibc2.39', 'threads': 'default'}
+DONE2
